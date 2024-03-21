@@ -26,7 +26,7 @@ heart of evil leader. So.... what are you doing? Playing or losing?
 
 ##Note
 *You need to have all the libraries from requirements.txt
-*To run the game just run python main.py 
+*To run the game just run python main.py or open main folder and there you will see an  exe file
 *The game is bilingual, for the best experience I recommend using english
 *Game made for FiiCode, team name "anyfuture", participants Lupes Alex
 *Presentation https://youtu.be/tHNRc4Pt5W8
