@@ -1,0 +1,50 @@
+<skills>
+    <lock_picking>
+        <name>
+            <en> Lock Picking </en>
+            <ro> Spargerea lacatului </ro>
+        </name>
+        <type>ACTIVE</type>
+        <info>
+            <en> Ability to open some doors and chests. A door (or a chest) needs two turns of picking to be open </en>
+            <ro> Capacitatea sa deschida niste usi si cufere. O usa (sau un cufar) necesita doua runde de spargere pentru a se deschide </ro>
+        </info>
+    </lock_picking>
+    <double_attack>
+        <name>
+            <en> Double Attack </en>
+            <ro> Atac Dublu </ro>
+        </name>
+        <type>MULTIPLE_ATTACKS</type>
+        <info>
+            <en> When attacking, this character will deal damage twice </en>
+            <ro> Cand ataca, acest caracter va lovi dublu </ro>
+        </info>
+    </double_attack>
+    <covered>
+        <name>
+            <en> Ally Protection </en>
+            <ro> Protectie prietenoasa </ro>
+        </name>
+        <type>ALLY_BOOST</type>
+        <stats>defense, resistance</stats>
+        <power>1</power>
+        <info>
+            <en> If an ally is adjacent to the unit, during combat defense and resistance are increased by 1 </en>
+            <ro> Daca un aliat este adiacent acestei unitati, apararea si rezistenta sunt marite cu 1 în timpul luptei. </ro>
+        </info>
+    </covered>
+    <brutal_hitter>
+        <name>
+            <en> Brutal Hitter </en>
+            <ro> Ucigas brutal </ro>
+        </name>
+        <type>ALTERATION_CHANCE_BOOST</type>
+        <alteration>stun</alteration>
+        <power>5</power>
+        <info>
+            <en> Probability to stun an enemy when using a weapon able to do it is increased by 5% </en>
+            <ro> Probabilitatea de a bloca un inamic in timpul utilizarii armei creste cu 5% </ro>
+        </info>
+    </brutal_hitter>
+</skills>
