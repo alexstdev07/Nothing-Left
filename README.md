@@ -7,7 +7,7 @@ In this fire Joacquin's house burned down, his grandparents being trapped inside
 Black Scorpion. He needs our help, we need to obtain a special potion that he will use to craft a poisonous arrow which he will then shoot straight into the
 heart of evil leader. So.... what are you doing? Playing or losing?
 
-##Technical data
+## Technical data
 *This game was made in python for FiiCode
 *It should have two cutscenes, intro and outro, but I encountered some problems that will be solved soon. For the best game experience, I recommend looking at notes for the links
 *This game has 4 levels with the difficulty rising
@@ -24,11 +24,12 @@ heart of evil leader. So.... what are you doing? Playing or losing?
 * Right click (on any entity) : Show the possible movements of the entity
 * Esc key : Close a menu on the top layer
 
-##Note
+## Note
 *You need to have all the libraries from requirements.txt
-*To run the game just run python main.py or open main folder and there you will see an  exe file
+*To run the game just run python main.py 
 *The game is bilingual, for the best experience I recommend using english
 *Game made for FiiCode, team name "anyfuture", participants Lupes Alex
 *Presentation https://youtu.be/tHNRc4Pt5W8
 *Intro on youtube : https://youtu.be/PsJUqhV_Ino
 *Outro on youtube : https://youtu.be/Y6SmvreLAN0
+## UPDATE FINALA : https://youtu.be/H8XzfHaXkgA

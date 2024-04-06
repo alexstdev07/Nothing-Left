@@ -1,9 +1,0 @@
-<map>
-    <properties>
-        <property name="chapter_id" type="int" value="1"/>
-        <property name="level_name" value="Fura"/>
-        <property name="main_mission_description" value="Puneti ramasitele inapoi pe altar"/>
-        <property name="main_mission_number_players" type="int" value="1"/>
-        <property name="main_mission_type" value="TOUCH_POSITION"/>
-    </properties>
-</map>

@@ -40,7 +40,7 @@ def f_CHAPTER_NUMBER(number: int):
 
 
 def f_LEVEL_NUMBER_AND_NAME(number: int, name: str):
-    return f"Nr {number} Închide: {name}"
+    return f"Nr nivel {number}: {name}"
 
 
 # Main menu

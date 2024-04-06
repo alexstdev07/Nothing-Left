@@ -1,8 +1,0 @@
-Cum sa joci
-
-Jocul incepe cu faza de initializare.
-In aceasta etapa puteti selecta personajul (clic stanga),
-si faceti clic pe locatia dorita pentru a schimba poziția initiala a personajului.
-Nu uitati sa deselectati caracterul (clic dreapta) cand ati terminat.
-Cand sunteti gata sa jucati, faceti clic pe orice patrat gol pentru a deschide meniul principal.
-Bucurati-va de experienta de joc!

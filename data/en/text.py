@@ -46,7 +46,7 @@ def f_LEVEL_NUMBER_AND_NAME(number: int, name: str):
 # Main menu
 STR_MAIN_MENU = "Main Menu"
 STR_SAVE = "Save"
-STR_SUSPEND = "Suspend"
+STR_SUSPEND = "Exit"
 STR_START = "Start"
 STR_DIARY = "Diary"
 STR_END_TURN = "End turn"
